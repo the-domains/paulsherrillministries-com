@@ -1,0 +1,28 @@
+name: paulsherrillministries.com
+favicon: null
+layout_spectrum: 0.28969110338948667
+typography_spectrum: 0.2293385500088334
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7975637519266456
+  lightness: 0.09956295252777636
+  saturation: 0.07599936425685883
+  rhythmicContrast: 0.10491097229532897
+purpose: []
