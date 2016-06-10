@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[paulsherrillministries.com]]></title>
+        <description><![CDATA[paulsherrillministries.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 10 Jun 2016 18:16:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Paul and Mona Sherrill are the Founders and Pastors of Christ Revealed Miracle Tabernacle located in Mitchellville, Maryland. In 28 years of ministry, they have ministered in more than 28 nations on four continents. Through North American and International Schools of Ministry, Conferences, World Mission Training Centers, and Healing Schools, Paul has equipped thousands of five-fold ministers and church leaders to reach and impact their generation. Paul has conducted Miracle Rallies and Mass Miracle Crusades where multitudes have experienced mighty signs, wonders, miracles and healing. Apostle Sherrill also participated in the Billion Soul Crusade with Dr. Morris Cerullo in the decade of the 90's. Paul has currently launched "Operation Vocal Glory" to prepare the Body of Christ worldwide for the end-time harvest.</p>]]></description>
+            <link>undefinedpaul-and-mona-sherrill-are-the-founders-and-pastors-of-chris/index.html</link>
+            <guid isPermaLink="false">b571f6c8-0b57-4b57-bf3f-652f1ea4ef97</guid>
+            <pubDate>Fri, 10 Jun 2016 18:16:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
